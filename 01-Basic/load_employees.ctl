@@ -1,5 +1,5 @@
 LOAD DATA
-INFILE 'C:\Oracle\Project_SQL_Loader\01-Basic\employees.csv'
+INFILE 'YourProjectPath\01-Basic\employees.csv'
 TRUNCATE 
 INTO TABLE employees
 FIELDS TERMINATED BY ','

@@ -1,0 +1,3 @@
+USERID = 'db_user/db_password@//localhost:1521/FREEPDB1'
+CONTROL = load_direct.ctl
+LOG = conventional.log

@@ -1,0 +1,5 @@
+USERID = 'db_user/db_password@//localhost:1521/FREEPDB1'
+CONTROL = load_sales.ctl
+LOG = direct_path.log
+BAD = sales_transactions.bad
+DISCARD = sales_transactions.dsc

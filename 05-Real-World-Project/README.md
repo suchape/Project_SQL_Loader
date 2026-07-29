@@ -29,7 +29,7 @@ cd 05-Real-World-Project
 # 1. Load the raw file into staging
 sqlldr PARFILE=load_sales.par
 
-# 2. Validate + merge into production (Run below statements in this file in SQL Worksheet OR sqlplus)
+# 2. Validate + merge into production (Run below statements in this file in SQL Worksheet OR using sqlplus)
 merge_to_prod.sql
 ```
 

@@ -1,0 +1,5 @@
+USERID = 'db_user/db_password@//localhost:1521/FREEPDB1'
+CONTROL = load_with_errors.ctl
+LOG = bad_data.log
+BAD = bad_data.bad
+DISCARD = bad_data.dsc

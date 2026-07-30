@@ -19,7 +19,7 @@
 - Load mode `TRUNCATE` (Remove all existing records before insert). `APPEND` (adds rows without touching existing ones)
 
 ##### Under `load_employees.par` file
-- `USERID` contains the connection string to the database. `'DB_User/YourDBPassword@//localhost:1521/FREEPDB1'`
+- `USERID` contains the connection string to the database. `'username/password@host:port/service_name'`
 - `FREEPDB1` if you are using Oracle Pluggable Database (PDB)
 - `CONTROL = load_employees.ctl` name of teh control file
 - `LOG = employees.log` name of the log file

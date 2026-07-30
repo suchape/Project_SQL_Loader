@@ -1,1 +1,4 @@
 *.sql linguist-language=SQL
+*.ctl linguist-language=SQL
+*.par linguist-language=SQL
+

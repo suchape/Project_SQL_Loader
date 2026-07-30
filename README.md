@@ -1,4 +1,4 @@
-### Oracle SQL*Loader: Zero to Hero
+### Oracle SQL*Loader: Zero to Pro
 
 A hands-on, runnable curriculum for learning **Oracle SQL*Loader** —
 from your very first CSV load to a production-style

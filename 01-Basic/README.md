@@ -20,7 +20,7 @@
 
 ##### Under `load_employees.par` file
 - `USERID` contains the connection string to the database. `'username/password@host:port/service_name'`
-- `FREEPDB1` if you are using Oracle Pluggable Database (PDB)
+- `FREEPDB1` use this as `service_name` if you are using Oracle Pluggable Database (PDB)
 - `CONTROL = load_employees.ctl` name of teh control file
 - `LOG = employees.log` name of the log file
 - You can define `BADFILE` and `DISCARDFILE` file path as well.

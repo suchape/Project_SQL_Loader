@@ -1,4 +1,4 @@
-USERID = 'db_user/db_password@//localhost:1521/FREEPDB1'
+USERID = 'username/password@host:port/service_name'
 CONTROL = load_sales.ctl
 LOG = direct_path.log
 BAD = sales_transactions.bad
